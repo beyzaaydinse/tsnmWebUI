@@ -1,1 +1,5 @@
 # tsnmWebUI
+-POM
+-MAVEN
+-TESTNG
+-WEBUI
